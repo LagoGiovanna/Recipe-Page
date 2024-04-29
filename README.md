@@ -4,17 +4,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  
-## Overview
-
-### Links
-
-- Live Site URL: [[[Click here]([url](https://lagogiovanna.github.io/Recipe-Page/))]
 
 ## My process
 
